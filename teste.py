@@ -1,3 +1,3 @@
 # Arquivo teste para o github
 
-print("Ola mundo")
+print("Olá mundo!")
