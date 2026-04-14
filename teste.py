@@ -1,5 +1,3 @@
-# Arquivo teste para o github
+# Realizados testes de Github
 
-print("Olá mundo!!!!!")
-
-print("Teste push")
+print ("Olá mundo!")
